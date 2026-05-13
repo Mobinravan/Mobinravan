@@ -1,5 +1,3 @@
-Mobin Ravan
-
 MSc Geodesy Student at KNTU | Geodesy Programmer | Astronomy & Space Weather Researcher | Surveying Engineer
 
 Enthusiastic about applying Machine Learning to Space Weather, Ionosphere, and GNSS atmospheric modeling
