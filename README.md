@@ -16,6 +16,5 @@ What I believe
 Start where you are, use what you have, learn what you need, and share it openly.
 
 Contact
-- LinkedIn: add your link here
-- Email: m.ravan@email.kntu.ac.ir
+- Email: Mobinravan23@gmail.com
 - GitHub: you are already here
