@@ -68,6 +68,9 @@
   <a href="mailto:Mobinravan23@gmail.com">
     <img src="https://img.shields.io/badge/Email-Mobinravan23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://www.linkedin.com/in/mobin-ravan-9ba55422a">
+    <img src="https://img.shields.io/badge/LinkedIn-Mobin_Ravan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
   <a href="https://github.com/Mobinravan">
     <img src="https://img.shields.io/badge/GitHub-Mobinravan-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
