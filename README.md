@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/Mobinravan/avatar/main/m.png" width="200">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mobinravan/avatar/main/m.png" width="200">
+</div>
 
 <h1 align="center">Mobin Ravan</h1>
 
