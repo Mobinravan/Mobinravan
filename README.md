@@ -1,7 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/Mobinravan/avatar/main/m.png" width="200">
-</div>
-
+</div> -->
 <h1 align="center">Mobin Ravan</h1>
 
 <p align="center">
