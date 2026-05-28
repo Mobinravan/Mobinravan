@@ -82,5 +82,5 @@
 ---
 
 <p align="center">
-  <i>Thanks for visiting! Feel free to reach out for collaboration or just a chat about Geodesy, AI, and Space Weather.</i>
+  <i>Thanks for visiting! Feel free to reach out for collaboration or just a chat about Geodesy, Astronomy, AI, and Space Weather.</i>
 </p>
