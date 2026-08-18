@@ -31,13 +31,6 @@
 - GNSS atmospheric modeling (troposphere & ionosphere)
 - Time series forecasting for solar activity indices
 
-###  Currently learning
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Time_Series_Forecasting-4A90E2?style=flat">
-  <img src="https://img.shields.io/badge/Data_Driven_Geodynamics-8E44AD?style=flat">
-</p>
 
 ###  Tools I use & keep learning
 
